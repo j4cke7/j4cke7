@@ -1,11 +1,24 @@
 <h1 align="center">ม็อดแปลไทยสำหรับเกม | Thai Game Mods</h1>
 
-<p align="center">รวมม็อดภาษาไทยจากแฟนเกม สำหรับเกมบน Steam (Windows) ดาวน์โหลดฟรี ตอนนี้มี <b>3 เกม</b><br>
+<p align="center">รวมม็อดภาษาไทยจากแฟนเกม สำหรับเกมบน Steam (Windows) ดาวน์โหลดฟรี ตอนนี้มี <b>4 เกม</b><br>
 <sub>Fan-made Thai translation mods for Steam games on Windows.</sub></p>
 
 ## เกมทั้งหมด
 
 กดชื่อเกมเพื่อดูรายละเอียด หรือกดดาวน์โหลดได้เลย
+
+<details>
+<summary><b>Queen's Domain ภาษาไทย</b> · รุ่น 1.0.0 · <a href="https://github.com/j4cke7/queens-domain-thai/releases/download/v1.0.0-build26496428/Queens-Domain-Thai-build26496428-v1.0.0.zip">⬇️&nbsp;ดาวน์โหลด</a></summary>
+
+<a href="https://github.com/j4cke7/queens-domain-thai"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/library_hero.jpg" alt="Queen's Domain" width="100%"></a>
+
+เพิ่มภาษาไทยเป็นภาษาใหม่ ภาษาเดิมยังเลือกได้
+
+รุ่น 1.0.0 · Steam (Windows) build 26496428 · อัปเดต 9 พ.ย. 2569
+
+**[⬇️ ดาวน์โหลด (.zip, 1.3 MiB)](https://github.com/j4cke7/queens-domain-thai/releases/download/v1.0.0-build26496428/Queens-Domain-Thai-build26496428-v1.0.0.zip)** · [หน้าม็อดและวิธีติดตั้ง](https://github.com/j4cke7/queens-domain-thai) · [หน้าเกมบน Steam](https://store.steampowered.com/app/1799840/Queen's_Domain/)
+
+</details>
 
 <details>
 <summary><b>Chained Beasts ภาษาไทย</b> · รุ่น 1.0.7 · <a href="https://github.com/j4cke7/chained-beasts-thai/releases/download/v1.0.7-build26152147/Chained-Beasts-Thai-replace-en-26152147-v1.0.7.zip">⬇️&nbsp;ดาวน์โหลด</a></summary>
