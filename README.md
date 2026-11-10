@@ -8,6 +8,19 @@
 กดชื่อเกมเพื่อดูรายละเอียด หรือกดดาวน์โหลดได้เลย
 
 <details>
+<summary><b>Chained Beasts ภาษาไทย</b> · รุ่น 1.0.8 · <a href="https://github.com/j4cke7/chained-beasts-thai/releases/download/v1.0.8-build26533809/Chained-Beasts-Thai-replace-en-26533809-v1.0.8.zip">⬇️&nbsp;ดาวน์โหลด</a></summary>
+
+<a href="https://github.com/j4cke7/chained-beasts-thai"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/library_hero.jpg" alt="Chained Beasts" width="100%"></a>
+
+ใช้แทนภาษา English ในเกม ภาษาอื่นยังเลือกได้
+
+รุ่น 1.0.8 · Steam (Windows) build 26533809 · อัปเดต 10 พ.ย. 2569
+
+**[⬇️ ดาวน์โหลด (.zip, 941 KiB)](https://github.com/j4cke7/chained-beasts-thai/releases/download/v1.0.8-build26533809/Chained-Beasts-Thai-replace-en-26533809-v1.0.8.zip)** · [หน้าม็อดและวิธีติดตั้ง](https://github.com/j4cke7/chained-beasts-thai) · [หน้าเกมบน Steam](https://store.steampowered.com/app/3569420/Chained_Beasts/)
+
+</details>
+
+<details>
 <summary><b>Queen's Domain ภาษาไทย</b> · รุ่น 1.0.1 · <a href="https://github.com/j4cke7/queens-domain-thai/releases/download/v1.0.1-build26496428/Queens-Domain-Thai-build26496428-v1.0.1.zip">⬇️&nbsp;ดาวน์โหลด</a></summary>
 
 <a href="https://github.com/j4cke7/queens-domain-thai"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/library_hero.jpg" alt="Queen's Domain" width="100%"></a>
@@ -17,19 +30,6 @@
 รุ่น 1.0.1 · Steam (Windows) build 26496428 · อัปเดต 10 พ.ย. 2569
 
 **[⬇️ ดาวน์โหลด (.zip, 1.3 MiB)](https://github.com/j4cke7/queens-domain-thai/releases/download/v1.0.1-build26496428/Queens-Domain-Thai-build26496428-v1.0.1.zip)** · [หน้าม็อดและวิธีติดตั้ง](https://github.com/j4cke7/queens-domain-thai) · [หน้าเกมบน Steam](https://store.steampowered.com/app/1799840/Queen's_Domain/)
-
-</details>
-
-<details>
-<summary><b>Chained Beasts ภาษาไทย</b> · รุ่น 1.0.7 · <a href="https://github.com/j4cke7/chained-beasts-thai/releases/download/v1.0.7-build26152147/Chained-Beasts-Thai-replace-en-26152147-v1.0.7.zip">⬇️&nbsp;ดาวน์โหลด</a></summary>
-
-<a href="https://github.com/j4cke7/chained-beasts-thai"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/library_hero.jpg" alt="Chained Beasts" width="100%"></a>
-
-ใช้แทนภาษา English ในเกม ภาษาอื่นยังเลือกได้
-
-รุ่น 1.0.7 · Steam (Windows) build 26152147 · อัปเดต 28 ต.ค. 2569
-
-**[⬇️ ดาวน์โหลด (.zip, 936 KiB)](https://github.com/j4cke7/chained-beasts-thai/releases/download/v1.0.7-build26152147/Chained-Beasts-Thai-replace-en-26152147-v1.0.7.zip)** · [หน้าม็อดและวิธีติดตั้ง](https://github.com/j4cke7/chained-beasts-thai) · [หน้าเกมบน Steam](https://store.steampowered.com/app/3569420/Chained_Beasts/)
 
 </details>
 
